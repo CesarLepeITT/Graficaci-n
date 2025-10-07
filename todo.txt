@@ -5,3 +5,6 @@ Hacer un codigo que rote la imagen
 Hacer codigo que traslade la imagen
 
 Hacer codigo que Transforme la imagen 
+
+
+Usando matplotlib para graficar y asi 
