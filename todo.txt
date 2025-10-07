@@ -1,0 +1,7 @@
+Primero encontrar los puntos y de ahi modificarla
+
+Hacer un codigo que rote la imagen 
+
+Hacer codigo que traslade la imagen
+
+Hacer codigo que Transforme la imagen 
